@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1572003743 source:c:\xuxin\documents\algorithm\pat_advanced_level\1033 to fill or not to fill\main.cpp
+	<cstdio>
+	<algorithm>
+

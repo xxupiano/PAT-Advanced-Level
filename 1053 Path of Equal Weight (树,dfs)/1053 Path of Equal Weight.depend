@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1580785333 source:c:\xuxin\documents\algorithm\pat_advanced_level\1053 path of equal weight\main.cpp
+	<iostream>
+	<cstdio>
+	<vector>
+	<algorithm>
+
+1580786888 source:c:\xuxin\documents\algorithm\pat_advanced_level\1053 path of equal weight (Ê÷,dfs)\main.cpp
+	<bits/stdc++.h>
+	<vector>
+	<algorithm>
+	<cstdio>
+

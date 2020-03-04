@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1579607476 source:c:\xuxin\documents\algorithm\pat_advanced_level\1029 median\main.cpp
+	<cstdio>
+	<algorithm>
+	<iostream>
+	<vector>
+

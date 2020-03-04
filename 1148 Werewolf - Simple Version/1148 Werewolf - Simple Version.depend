@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1573910143 source:c:\xuxin\documents\algorithm\pat_advanced_level\1148 werewolf - simple version\main.cpp
+	<iostream>
+	<vector>
+	<cmath>
+

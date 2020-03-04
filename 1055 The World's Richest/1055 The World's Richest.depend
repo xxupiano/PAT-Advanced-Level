@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1580875083 source:c:\xuxin\documents\algorithm\pat_advanced_level\1055 the world's richest\main.cpp
+	<iostream>
+	<cstdio>
+	<algorithm>
+	<vector>
+	<cstring>
+

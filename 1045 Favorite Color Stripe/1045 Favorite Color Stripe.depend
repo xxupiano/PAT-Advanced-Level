@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1571830444 source:c:\xuxin\documents\algorithm\pat_advanced_level\1045 favorite color stripe\main.cpp
+	<iostream>
+	<vector>
+	<cstdio>
+	<algorithm>
+

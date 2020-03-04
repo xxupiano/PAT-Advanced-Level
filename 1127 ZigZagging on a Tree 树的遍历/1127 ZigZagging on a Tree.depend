@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1577955754 source:c:\xuxin\documents\algorithm\pat_advanced_level\1127 zigzagging on a tree\main.cpp
+	<iostream>
+	<vector>
+	<queue>
+

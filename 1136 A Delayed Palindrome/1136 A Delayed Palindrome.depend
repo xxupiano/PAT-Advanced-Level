@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1576398593 source:c:\xuxin\documents\algorithm\pat_advanced_level\1136 a delayed palindrome\main.cpp
+	<iostream>
+	<algorithm>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1573116880 source:c:\xuxin\documents\algorithm\pat_advanced_level\1023 have fun with numbers\main.cpp
+	<cstdio>
+	<string>
+	<cstring>
+

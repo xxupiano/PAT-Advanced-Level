@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1581083506 source:c:\xuxin\documents\algorithm\pat_advanced_level\1121 damn single\main.cpp
+	<iostream>
+	<set>
+	<vector>
+	<cstdio>
+

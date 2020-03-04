@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1575720197 source:c:\xuxin\documents\algorithm\pat_advanced_level\1138 postorder traversal\main.cpp
+	<iostream>
+	<cstdio>
+	<vector>
+

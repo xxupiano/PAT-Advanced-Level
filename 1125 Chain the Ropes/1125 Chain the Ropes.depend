@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1578233774 source:c:\xuxin\documents\algorithm\pat_advanced_level\1125 chain the ropes\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+	<cstdio>
+

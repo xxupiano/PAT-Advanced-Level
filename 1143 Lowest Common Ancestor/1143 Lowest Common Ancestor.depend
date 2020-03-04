@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1575685738 source:c:\xuxin\documents\algorithm\pat_advanced_level\1143 lowest common ancestor\main.cpp
+	<iostream>
+	<vector>
+	<map>
+

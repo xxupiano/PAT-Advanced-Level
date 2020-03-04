@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1571832153 source:c:\xuxin\documents\algorithm\pat_advanced_level\1068 find more coins\main.cpp
+	<iostream>
+	<cstdio>
+	<algorithm>
+

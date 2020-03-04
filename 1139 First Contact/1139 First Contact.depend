@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1575719354 source:c:\xuxin\documents\algorithm\pat_advanced_level\1139 first contact\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	<unordered_map>
+	<cstdio>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1571299965 source:c:\xuxin\documents\algorithm\pat_advanced_level\1034 head of a gang\main.cpp
+	<iostream>
+	<cstdio>
+	<map>
+

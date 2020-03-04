@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1577848732 source:c:\xuxin\documents\algorithm\pat_advanced_level\1028 list sorting\main.cpp
+	<iostream>
+	<algorithm>
+	<string.h>
+

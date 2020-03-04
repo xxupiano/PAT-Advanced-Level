@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1573114991 source:c:\xuxin\documents\algorithm\pat_advanced_level\1022 digital library\main.cpp
+	<iostream>
+	<set>
+	<cstdio>
+	<string>
+	<map>
+
