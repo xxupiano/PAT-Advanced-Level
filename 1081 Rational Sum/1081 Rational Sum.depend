@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1598098694 source:c:\xuxin\documents\algorithm\pat_advanced_level\1081 rational sum\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+

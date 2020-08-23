@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1598087003 source:c:\xuxin\documents\algorithm\pat_advanced_level\1077 kuchiguse\main.cpp
+	<iostream>
+	<algorithm>
+	<string>
+	<cstring>
+

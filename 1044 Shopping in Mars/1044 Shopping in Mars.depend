@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1597650664 source:c:\xuxin\documents\algorithm\pat_advanced_level\1044 shopping in mars\main.cpp
+	<iostream>
+	<vector>
+	<cstdio>
+

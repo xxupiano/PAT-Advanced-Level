@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1598146164 source:c:\xuxin\documents\algorithm\pat_advanced_level\1079 total sales of supply chain\main.cpp
+	<cstdio>
+	<vector>
+	<cmath>
+	<iostream>
+

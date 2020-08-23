@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1587957416 source:c:\xuxin\documents\algorithm\pat_advanced_level\1123 is it a complete avl tree\main.cpp
+	<iostream>
+	<cstdio>
+	<vector>
+	<queue>
+

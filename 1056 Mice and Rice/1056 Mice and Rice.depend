@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1586363565 source:c:\xuxin\documents\algorithm\pat_advanced_level\1056 mice and rice\main.cpp
+	<iostream>
+	<cstdio>
+	<queue>
+	<vector>
+	<algorithm>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1597740706 source:c:\xuxin\documents\algorithm\pat_advanced_level\1063 set similarity\main.cpp
+	<iostream>
+	<cstdio>
+	<unordered_set>
+	<vector>
+

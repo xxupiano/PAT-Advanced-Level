@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1597655411 source:c:\xuxin\documents\algorithm\pat_advanced_level\1060 are they equal\main.cpp
+	<iostream>
+	<cstdio>
+	<string>
+	<cstring>
+

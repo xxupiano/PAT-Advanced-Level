@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1597977072 source:c:\xuxin\documents\algorithm\pat_advanced_level\1073 scientific notation\main.cpp
+	<iostream>
+	<cstring>
+	<string>
+	<cstdio>
+
