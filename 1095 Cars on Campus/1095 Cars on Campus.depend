@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1598490778 source:c:\xuxin\documents\algorithm\pat_advanced_level\1095 cars on campus\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	<map>
+	<cstring>
+

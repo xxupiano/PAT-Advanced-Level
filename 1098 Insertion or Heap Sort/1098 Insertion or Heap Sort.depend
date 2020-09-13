@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1598496052 source:c:\xuxin\documents\algorithm\pat_advanced_level\1098 insertion or heap sort\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+

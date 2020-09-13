@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1598691616 source:c:\xuxin\documents\algorithm\pat_advanced_level\1110 complete binary tree\main.cpp
+	<iostream>
+	<cstdio>
+	<string>
+

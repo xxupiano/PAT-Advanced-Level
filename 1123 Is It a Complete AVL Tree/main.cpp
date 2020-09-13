@@ -1,8 +1,8 @@
 #include <iostream>
-#include <cstdio>
 #include <vector>
 #include <queue>
-
+#include <algorithm>
+#include <cstdio>
 using namespace std;
 
 struct node {
@@ -24,7 +24,7 @@ node* rightRotate(node* tree) {
     return temp;
 }
 
-node* leftRightRotate(node* tree) {
+node *leftRightRotate(node* tree) {
     tree->left = leftRotate(tree->left);
     return rightRotate(tree);
 }
@@ -45,55 +45,54 @@ node* insert(node* tree, int val) {
     if(tree==NULL) {
         tree = new node();
         tree->val = val;
-    }else if (tree->val > val) {
+    } else if(tree->val > val) {
         tree->left = insert(tree->left, val);
-        int l = getHeight(tree->left), r = getHeight(tree->right);
+        int l=getHeight(tree->left),r=getHeight(tree->right);
         if(l-r>=2) {
-            if(val < tree->left->val) tree = rightRotate(tree);
+            if(val<tree->left->val) tree=rightRotate(tree);
             else tree = leftRightRotate(tree);
         }
     } else {
         tree->right = insert(tree->right, val);
-        int l = getHeight(tree->left), r = getHeight(tree->right);
+        int l = getHeight(tree->left), r=getHeight(tree->right);
         if(r-l>=2) {
-            if(val>tree->right->val) tree = leftRotate(tree);
-            else tree = rightLeftRotate(tree);
+            if(val>tree->right->val)
+                tree = leftRotate(tree);
+            else
+                tree = rightLeftRotate(tree);
         }
     }
     return tree;
 }
 
-//判断是不是完全二叉树，就看在出现了一个孩子为空的结点之后是否还会出现孩子结点不为空的结点，如果出现了就不是完全二叉树。
 int isComplete=1, after=0;
-
 vector<int> levelOrder(node* tree) {
     vector<int> v;
-    queue<node*> queue;
-    queue.push(tree);
-    while(!queue.empty()) {
-        node* temp = queue.front();
-        queue.pop();
+    queue<node*> q;
+    q.push(tree);
+    while(!q.empty()) {
+        node* temp = q.front();
+        q.pop();
         v.push_back(temp->val);
         if(temp->left!=NULL) {
             if(after) isComplete=0;
-            queue.push(temp->left);
-        } else {
-            after = 1;
+            q.push(temp->left);
         }
+        else
+            after=1;
         if(temp->right!=NULL) {
             if(after) isComplete=0;
-            queue.push(temp->right);
+            q.push(temp->right);
         }
-        else {
-            after = 1;
-        }
+        else
+            after=1;
     }
     return v;
 }
 
 int main()
 {
-    int n, temp;
+    int n,temp;
     scanf("%d", &n);
     node* tree = NULL;
     for(int i=0; i<n; i++) {

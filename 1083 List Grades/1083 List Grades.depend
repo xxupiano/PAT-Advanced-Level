@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1598234266 source:c:\xuxin\documents\algorithm\pat_advanced_level\1083 list grades\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
